@@ -3,3 +3,5 @@ AI Resume Evaluator is an intelligent web-based application that helps job seeke
 
 <img width="1536" height="1024" alt="AI Resume Evaluator" src="https://github.com/user-attachments/assets/f8b98f9c-f2f6-49bd-819b-6a0a046f6aa5" />
 
+<img width="1347" height="641" alt="AI Resume Evaluator" src="https://github.com/user-attachments/assets/8ba70f34-dd8f-4c87-8a9b-7f4e4bd97063" />
+
